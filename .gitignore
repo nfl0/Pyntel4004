@@ -140,3 +140,6 @@ pyntel4004/.DS_Store
 .DS_Store
 
 *.core
+
+# Temporary skip
+docs
